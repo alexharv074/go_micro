@@ -25,3 +25,17 @@ In addition, I had to install protobuf:
 brew install protobuf
 ~~~
 
+# Usage
+
+In a terminal, change to the consignment-service directory and run:
+
+~~~ text
+go run main.go
+~~~
+
+From another terminal, change to the consignment-cli directory and run:
+
+~~~ text
+go run cli.go
+~~~
+
